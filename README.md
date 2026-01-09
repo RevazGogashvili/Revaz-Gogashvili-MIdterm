@@ -56,6 +56,7 @@ The objective of this task was to develop a machine learning application capable
 
 ### 2. Project Resources
 Dataset File: r_gogashvili25_83126.csv / spam_data.csv
+
 Source Code: spam_detection.py
 
 ### 3. Methodology
