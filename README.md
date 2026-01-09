@@ -39,6 +39,7 @@ The calculated Pearson Correlation Coefficient is:
 
 #### Visualization
 ![Correlation Plot](./correlation_plot.png)
+
 *The plot uses a standardized scale of -10 to 10 on both axes to provide a clear view of the data distribution and the resulting negative trend line.*
 
 ### 5. Interpretation
